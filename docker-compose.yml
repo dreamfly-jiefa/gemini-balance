@@ -1,5 +1,3 @@
-volumes:
-  mysql_data:
 services:
   gemini-balance:
     image: ghcr.io/snailyp/gemini-balance:latest
